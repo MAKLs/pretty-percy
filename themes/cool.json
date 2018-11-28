@@ -1,0 +1,68 @@
+{
+  "button": {
+    "color": "#bbdefb",
+    "background": "#263238",
+    "border": "#263238"
+  },
+  "document": {
+    "background": {
+      "color": "#455a64"
+    }
+  },
+  "event": {
+    "background": {
+      "color": "#eceff1"
+    },
+    "label": {
+      "color": "#000000"
+    }
+  },
+  "inbound": {
+    "internal": {
+      "border": {
+        "weight": "8px",
+        "style": "solid",
+        "color": "#f44336"
+      },
+      "image": "images/ib-arrow.svg",
+      "label": {
+        "color": "#f44336"
+      }
+    },
+    "external": {
+      "border": {
+        "weight": "8px",
+        "style": "solid",
+        "color": "#81d4fa"
+      },
+      "image": "images/ib-arrow.svg",
+      "label": {
+        "color": ""
+      }
+    }
+  },
+  "outbound": {
+    "internal": {
+      "border": {
+        "weight": "8px",
+        "style": "solid",
+        "color": "#f44336"
+      },
+      "image": "images/ob-arrow.svg",
+      "label": {
+        "color": "#f44336"
+      }
+    },
+    "external": {
+      "border": {
+        "weight": "8px",
+        "style": "solid",
+        "color": "#0277bd"
+      },
+      "image": "images/ob-arrow.svg",
+      "label": {
+        "color": ""
+      }
+    }
+  }
+}

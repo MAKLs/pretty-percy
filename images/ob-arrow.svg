@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="9.5px" viewBox="0 0 24 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Outbound Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-57.000000, -205.000000)">
+            <g id="arrow" transform="translate(57.000000, 205.000000)">
+                <rect id="background" fill="" x="0" y="0" width="24" height="19"></rect>
+                <polygon id="triangle" fill="" transform="translate(13.867362, 4.837036) scale(-1, -1) rotate(-90.000000) translate(-13.867362, -4.837036) " points="9.03032625 9.70439851 9.03032625 -0.0303262453 18.7043985 0.0606524907"></polygon>
+                <rect id="rectangle" fill="" transform="translate(8.500000, 10.000000) rotate(45.000000) translate(-8.500000, -10.000000) " x="6.86827202" y="-0.389087297" width="3.26345597" height="20.7781746"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

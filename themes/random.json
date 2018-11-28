@@ -1,0 +1,68 @@
+{
+  "button": {
+    "color": "#",
+    "background": "#",
+    "border": "#"
+  },
+  "document": {
+    "background": {
+      "color": "#"
+    }
+  },
+  "event": {
+    "background": {
+      "color": "#"
+    },
+    "label": {
+      "color": "#"
+    }
+  },
+  "inbound": {
+    "internal": {
+      "border": {
+        "weight": "7px",
+        "style": "solid",
+        "color": "#"
+      },
+      "image": "images/ib-arrow.svg",
+      "label": {
+        "color": "#"
+      }
+    },
+    "external": {
+      "border": {
+        "weight": "7px",
+        "style": "solid",
+        "color": "#"
+      },
+      "image": "images/ib-arrow.svg",
+      "label": {
+        "color": "#"
+      }
+    }
+  },
+  "outbound": {
+    "internal": {
+      "border": {
+        "weight": "7px",
+        "style": "solid",
+        "color": "#"
+      },
+      "image": "images/ob-arrow.svg",
+      "label": {
+        "color": "#"
+      }
+    },
+    "external": {
+      "border": {
+        "weight": "7px",
+        "style": "solid",
+        "color": "#"
+      },
+      "image": "images/ob-arrow.svg",
+      "label": {
+        "color": "#"
+      }
+    }
+  }
+}

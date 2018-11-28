@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        div.confirm {
+            display: inline;
+            color: forestgreen;
+            font-weight: bold;
+            opacity: 0;
+            transition: opacity 0.3s ease-in 0s;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <form>
+        <p>
+        <b><label>Choose theme:</label></b>
+            <select id="theme">
+                <option value="default" selected="selected">Default</option>
+                <option disabled>--------------------</option>
+                <option value="color-blind">Color-Blind</option>
+                <option value="cool">Cool</option>
+                <option value="random">Random</option>
+                <option value="stopGo">Stop&Go</option>
+                <option value="tsops">TSOps</option>
+            </select>
+        </p>
+        <p>
+        <b><label style="padding-bottom: 100px;">Choose border type:</label></b>
+            <br />
+            <input type="radio" name="border-type" value="border" id="rf" /><label for="rf">Full</label>
+            <br />
+            <label for="rt" style="margin-left: 46px;">Top</label><br />
+            <input type="radio" name="border-type" value="borderTop" id="rt" style="margin-left: 49px;" />
+            <br />
+            <label for="rl">Left</label><input type="radio" name="border-type" value="borderLeft" id="rl" style="margin-right: 25px;" />
+            <input type="radio" name="border-type" value="borderRight" id="rr" /><label for"rr">Right</label>
+            <br />
+            <input type="radio" name="border-type" value="borderBottom" id="rb" style="margin-left: 49px;" />
+            <br />
+            <label for=" rb"style="margin-left: 37px;">Bottom</label> 
+        </p>
+        <button type="submit" id="save" style="margin-right: 10px;">Save</button>
+        <div class="confirm">Selections have been saved!</div>
+    </form>
+    <script src="scripts/options.js"></script>
+</body>
+</html>
